@@ -1,9 +1,9 @@
 header {
     border-bottom: 2px solid black;
-    color: blue;
+    color: red;
 }
 
 p {
-	color: blue;
-	border: 1px solid blue;
+	color: red;
+	border: 1px solid red;
 }
